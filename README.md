@@ -1,8 +1,8 @@
 # daveio/hath
 
-![Docker Pulls](https://img.shields.io/docker/pulls/daveio/hath.svg)][hub]
+![Docker Pulls](https://img.shields.io/docker/pulls/daveio/hath.svg)][https://hub.docker.com/r/daveio/hath/]
 
-![Docker Stars](https://img.shields.io/docker/stars/daveio/hath.svg)][hub]
+![Docker Stars](https://img.shields.io/docker/stars/daveio/hath.svg)][https://hub.docker.com/r/daveio/hath/]
 
 ## Usage
 
@@ -24,5 +24,3 @@ docker run \
 ```
 
 If bridge neteworking doesn't work on your Docker host for some reason, try `--net host`.
-
-[hub]: https://hub.docker.com/r/daveio/hath/
