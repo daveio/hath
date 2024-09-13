@@ -1,8 +1,8 @@
 # daveio/hath
 
-![Docker Pulls](https://img.shields.io/docker/pulls/daveio/hath.svg)]
+![Docker Pulls](https://img.shields.io/docker/pulls/daveio/hath.svg)
 
-![Docker Stars](https://img.shields.io/docker/stars/daveio/hath.svg)]
+![Docker Stars](https://img.shields.io/docker/stars/daveio/hath.svg)
 
 ## Usage
 
