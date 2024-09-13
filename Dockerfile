@@ -4,7 +4,7 @@ LABEL maintainer Dave W <dave@dave.io>
 
 ARG HATH_VERSION
 
-RUN apt-get update && apt-get install -y --no-install-recommends wget=1.21.3-1+b1 unzip=6.0-28 && \
+RUN apt-get update && apt-get install -y --no-install-recommends wget unzip && \
     wget --progress=dot:giga -O /tmp/hath-$HATH_VERSION.zip https://repo.e-hentai.org/hath/HentaiAtHome_$HATH_VERSION.zip && \
     ls -l /tmp && \
     mkdir -p /opt/hath /hath && \
